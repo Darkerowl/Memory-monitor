@@ -13,7 +13,7 @@
 
 
 ## Describer:
-[memory_monitor.py](memorymonitor.py) is a light-weight $\color{red}{\text{Python}}$ script designed to be a simple monitor for your `RAM %` with a `simple GUI window` that has a % bar to show load. The `GUI` also shows your computers `top process` allowing you to see what program is using the most RAM.
+[memory_monitor.py](memory_monitor.py) is a light-weight $\color{red}{\text{Python}}$ script designed to be a simple monitor for your `RAM %` with a `simple GUI window` that has a % bar to show load. The `GUI` also shows your computers `top process` allowing you to see what program is using the most RAM.
 
 ## The Idea:
 Well the idea was simple, I wanted a simple and easy way to watch my ram while I did tasks on my computer, `gaming`, `streaming`, `computer work`, `computer tech` just about anything that would need you to have a glanceable look at your ram. 
